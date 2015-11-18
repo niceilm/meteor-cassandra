@@ -1,0 +1,1 @@
+cassandra = Npm.require('cassandra-driver');
